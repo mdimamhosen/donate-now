@@ -146,3 +146,24 @@ width: 50%;
 .services-left{
   width: 50%;
 }
+.call-icon{
+  width:80px;}
+.call{
+display: flex;
+border-right: 1px solid rgb(207, 129, 129);
+}
+.apponment{
+  display: flex;
+  width: 80%;
+  background-color: cyan;
+  padding: 20px;
+  align-items: center;
+  text-align: center;
+  margin: auto;
+  border-radius: 25px;margin-top: -70px;
+}
+.consult-paragraph{
+  padding-left: 5px;
+ width: 25%;
+ 
+}
